@@ -1,0 +1,61 @@
+#homepage {
+  background-color: rgba(200, 20, 0, 0.5);
+  background-blend-mode: multiply;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  background-image: url("https://static.vecteezy.com/system/resources/previews/007/686/649/non_2x/modern-abstract-mesh-dynamic-wave-background-free-vector.jpg");
+}
+
+#title{
+  color: white;
+  text-align: center;
+  padding-top: 8%;
+}
+
+#subTitle{
+  color: white;
+  text-align: center;
+  margin-top: 10px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+button{
+  margin: auto;
+  display: block;
+  border-radius: 5px;
+  padding: 0.5em 1em;
+  border: none;
+  cursor: pointer;
+  font-size: large;
+}
+
+#teamIntro{
+  color: white;
+  text-align: center;
+  font-size: 20px;
+  padding-top: 12%;
+}
+
+h5{
+  color: white;
+  margin-top: 5%;
+  padding-top: 5%;
+}
+
+h4{
+  color: white;
+  margin-top: 5%;
+  /* padding-left: 25%; */
+  padding-top: 12%;
+}
+
+#getStartedBtn{
+  margin-top: 10%;
+}
+
+#webcamVideo{
+  padding-left: 5%;
+  padding-top: 7%;
+  padding-right: 8%;
+}
